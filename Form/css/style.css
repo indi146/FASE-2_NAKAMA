@@ -1,0 +1,17 @@
+.text-danger {
+    color: #dc3545!important;
+}
+
+.form-text {
+    display: block;
+    margin-top: .25rem;
+}
+
+.small {
+    font-size: 80%;
+    font-weight: 400;
+}
+
+.small {
+    font-size: 80%;
+}

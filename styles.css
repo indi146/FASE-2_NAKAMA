@@ -1,0 +1,14 @@
+.button {
+    width: 100%;
+    height: 50px;
+}
+
+.left {
+    float: left;
+    display: block;
+}
+
+.right {
+    float: right;
+    display: block;
+}
